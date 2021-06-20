@@ -19,7 +19,7 @@
   <div class = "main">
   <div style="text-align: justify;">
     <div id="Whitepaper Contents">
-      <p class="toc_title">Whitepaper Contents</p>
+      <p class="toc_title"><h3 >Whitepaper Contents</h3></p>
       <ul class="toc_list">
         <li><a href="#About">About</a></li>
       <li><a href="#use-case-The-Dependable-Altcoin-of-the-Future">Use Case: The Dependable Altcoin of the Future</a></li>
