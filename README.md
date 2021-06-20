@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align="center">NASA | Not Another Shit Altcoin</h2>
+    <h1 align="center">NASA Whitepaper</h1>
 </p>
 
 
