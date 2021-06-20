@@ -17,11 +17,11 @@
       <p class="toc_title">Whitepaper Contents</p>
       <ul class="toc_list">
         <li><a href="#About">About</a></li>
-      <li><a href="#Use Case: The Dependable Altcoin of the Future">Use Case: The Dependable Altcoin of the Future</a></li>
+      <li><a href="#use-case-The-Dependable-Altcoin-of-the-Future">Use Case: The Dependable Altcoin of the Future</a></li>
       <li><a >What Makes NASA Dependable</a></li>
         <ul>
-          <li><a href="#Ownership Renounced">1. Ownership Renounced</a></li>
-          <li><a href="#The smart contract contains no lock/unlock functions">2. The smart contract contains no lock/unlock functions</a></li>
+          <li><a href="#ownership-renounced">1. Ownership Renounced</a></li>
+          <li><a href="#the-smart-contract-contains-no-lockunlock-functions">2. The smart contract contains no lock/unlock functions</a></li>
           <li><a href="#Locked liquidity pool until 2100">3. Locked liquidity pool until 2100</a></li>
           <li><a href="#Excellent wallet distribution">4. Excellent wallet distribution</a></li>
           <li><a href="#Full transparency and a globally doxed team">5. Full transparency and a globally doxed team</a></li>
@@ -30,9 +30,9 @@
         </ul>
         <li><a>Coming Soon</a></li>
         <ul>
-          <li><a href="#1. NASA Audit Services">1. NASA Audit Services</a></li>
-          <li><a href="#2. Rug Pull Relief Fund">2. Rug Pull Relief Fund</a></li>
-          <li><a href="#3. NFT marketplace">3. NFT marketplace</a></li>
+          <li><a href="#1-NASA-Audit-Services">1. NASA Audit Services</a></li>
+          <li><a href="#2-Rug-Pull-Relief-Fund">2. Rug Pull Relief Fund</a></li>
+          <li><a href="#-NFT-marketplace">3. NFT marketplace</a></li>
         </ul>
         <li><a>Token Information</a></li>
         <ul>
@@ -70,7 +70,7 @@
   The founder of NASA originates from Auckland, New Zealand while the rest of the crew are all spread out across different parts of the globe. They are fully doxed (just visit [nasatoken.net](http://nasatoken.net) for more info) and armed with a wide range of skill sets that make them perfect candidates for creating a successful token.</p>
 
 
-## Use Case: The Dependable Altcoin of the Future
+## Use Case The Dependable Altcoin of the Future
 ![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/Nasa-Dependable-Altcoin.jpg)
 <p>NASA aims to solve to the best of its abilities a very unfortunate side effect of investing in crypto which is the threat of a rug pull and or the developers giving up on a project. There is a huge opportunity out there for a token that truly puts the interests of the investor first and we believe NASA is that token. Every action and decision made is done so with good intentions and is driven by this underlining principle. 
 
@@ -110,7 +110,8 @@ In addition to this, the team of professionals working on NASA are doxed. As you
 
 
 ## ID verified audit by Dessert Finance
-![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/dessert-finance.png)
+![Team Map](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/dessert-finance.png)
+
 <p> Dessert Finance created an extensive and thorough Audit on the NASA token. You can read it for yourself [here](https://dessertswap.finance/idverified.html). Dessert Finance had high praise for NASA and only highlighted two possible risk signs none of which were concerned with the smart contract itself.
 
 The risk signs were related to use case and domain name registration. The use case was not made common knowledge prior to the audit - this is no longer an issue and has since been fixed.
@@ -125,11 +126,11 @@ In regards to the domain name registration, Dessert Finance likes to see domains
 ## 1. NASA Audit Services
 
 
+## 2. Rug Pull Relief Fund
 
 
 
-
-
+## 3. NFT marketplace
 
 
 
