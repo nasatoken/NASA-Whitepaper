@@ -61,7 +61,7 @@
 
 ## About
 
-<p>Launched in June 2021, **NASA** or **Not Another Shit Altcoin** is a token deployed on the Binance Smart Chain network that utilizes the raw power of memes, transparency, innovation and pure fundamentals to facilitate its goal of becoming the dependable altcoin of the future.
+<p>Launched in June 2021, <b>NASA<b> or <b>Not Another Shit Altcoin<b> is a token deployed on the Binance Smart Chain network that utilizes the raw power of memes, transparency, innovation and pure fundamentals to facilitate its goal of becoming the dependable altcoin of the future.
 
   NASA stands out because it has character, originality, tokenomics that prohibit rug pulls, an authentic community that wasn't built on the foundation of bots, and a team of amazing individuals with years of crypto experience between them.
   
@@ -77,9 +77,26 @@
   NASA's tagline is "The Dependable Altcoin of the Future" for a reason. We feel it encapsulates and sums up our aim nicely and communicates effectively to the community in just a few short words what we are trying to achieve. Continue reading for more details. </p>
 
 
+## Ownership Renounced
+<p>Ownership was renounced on June 06, 2021.</p>
+<a href="https://bscscan.com/tx/0x02c5dc9e329da9b20620daabc786c80adb754a317201bbffddbc16d9c309b38e#eventlog">Transaction Hash</a>
+![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/Ownership-Renounced.png)
+
+## The smart contract contains no lock/unlock functions
+<p>A lot of people do not know this but a very common risk factor for tokens is their ability to "fake" renounced ownership without investors being any the wiser. This is made possible by a function embedded into the smart contract that allows the developer to reclaim ownership once it has been renounced. NASA listened to the concerns of the community and made the easy decision of removing this line of code completely from the smart contract.</p>
+<a href="https://www.reddit.com/r/CryptoCurrency/comments/nanuaf/safemoon_clones_can_fake_renounced_ownership_and/">For more info visit here</a>
 
 
+## Locked liquidity pool until 2100
+<p> The liquidity pool was locked through DxSale for the maximum amount of time allowed.
 
+Investors can sleep soundly at night knowing that the liquidity pool will never be unlocked in their lifetime, eliminating the risk of a discrete rug pull later on down the track.</p>
+![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/liquidity-locked.png)
+
+## Excellent wallet distribution
+<p>NASA held a Whitelist presale before launching on DxSale. Loyal members of the community were given an opportunity to purchase tokens early to ensure that in the event of bot attack on DxSale that the token would also be propped up by individuals that supported the project/holders.
+
+To avoid the risk of whales buying up large qualities of NASA and controlling the supply a max buy limit of 1 BNB per person/wallet was implemented for both the Whitelist and DxSale. This proved to be a very wise decision as NASA tokens are now distributed fairly evenly across all wallets. Refer to the *wallet distributions* section down [below](https://www.notion.so/NASA-Token-s-Live-Whitepaper-e36eaf6a194244479767bd188aa1271b) for more details.</p>
 
 
 
