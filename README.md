@@ -139,7 +139,9 @@ Below is a short rundown of how the process will work:
 5. A token becomes NASA Certified if it meets a certain criteria and or threshold. This is essentially recognition that this token passes all our checks and based on the results it is Not Another Shit Altcoin
 6. NASA creates an NFT for the most worthy projects that will be displayed on nasatoken.net and shared across all social media platforms bringing attention and hype to the newly audited token
 </p>
-    ![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/Audit-serivce.png)
+
+![ sd](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/Audit-serivce.png)
+
 <p>
 Proof of concept. Selected audited tokens will receive an animated NFT equipped with a "NASA Certified" stamp and grade.</p>
 
