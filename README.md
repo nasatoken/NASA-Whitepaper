@@ -185,8 +185,10 @@ A link will be available on our website shortly that will redirect the user to a
 </p>
 
 ## Tokenomics
+
+
+## Token allocation
 <p>
-Token allocation
 
 **Initial supply:** 1,000,000,000,000 NASA
 
