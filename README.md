@@ -53,10 +53,6 @@
             <li><a href="#Increasing liquidity pool">Increasing liquidity pool</a></li>
           </ul>
         <ul>
-          
-        
-
-
       </ul>
     </div>
   </div>
@@ -75,7 +71,7 @@
 
 
 ## Use Case: The Dependable Altcoin of the Future
-![nasa](/images/NASA-Dependable-Altcoin.jpg)
+![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/Nasa-Dependable-Altcoin.jpg)
 <p>NASA aims to solve to the best of its abilities a very unfortunate side effect of investing in crypto which is the threat of a rug pull and or the developers giving up on a project. There is a huge opportunity out there for a token that truly puts the interests of the investor first and we believe NASA is that token. Every action and decision made is done so with good intentions and is driven by this underlining principle. 
 
   NASA's tagline is "The Dependable Altcoin of the Future" for a reason. We feel it encapsulates and sums up our aim nicely and communicates effectively to the community in just a few short words what we are trying to achieve. Continue reading for more details. </p>
