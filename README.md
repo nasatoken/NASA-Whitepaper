@@ -113,7 +113,7 @@ In addition to this, the team of professionals working on NASA are doxed. As you
 ## ID verified audit by Dessert Finance
 ![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/dessert-finance.png)
 
-<p> Dessert Finance created an extensive and thorough Audit on the NASA token. You can read it for yourself [here](https://dessertswap.finance/idverified.html). Dessert Finance had high praise for NASA and only highlighted two possible risk signs none of which were concerned with the smart contract itself.
+<p> Dessert Finance created an extensive and thorough Audit on the NASA token. You can read it for yourself <a href="https://dessertswap.finance/idverified.html">here</a>. Dessert Finance had high praise for NASA and only highlighted two possible risk signs none of which were concerned with the smart contract itself.
 
 The risk signs were related to use case and domain name registration. The use case was not made common knowledge prior to the audit - this is no longer an issue and has since been fixed.
 
