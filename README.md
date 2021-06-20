@@ -107,7 +107,7 @@ To avoid the risk of whales buying up large qualities of NASA and controlling th
 In addition to this, the team of professionals working on NASA are doxed. As you can see from the map below, NASA is comprised of a global network of individuals who have banded together to achieve one common goal.
 </p>
 
-![Team Map](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/team-map.png)
+![Team Map](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/team-map.webp)
 
 
 ## ID verified audit by Dessert Finance
