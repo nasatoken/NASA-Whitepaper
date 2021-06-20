@@ -204,6 +204,7 @@ Token allocation
 
 ## Wallet Distribution
 <p>
+
 ![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/Wallet-Distribution.png)
 
 The three largest holders
