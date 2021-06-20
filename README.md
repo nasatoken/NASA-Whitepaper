@@ -106,11 +106,12 @@ To avoid the risk of whales buying up large qualities of NASA and controlling th
 
 In addition to this, the team of professionals working on NASA are doxed. As you can see from the map below, NASA is comprised of a global network of individuals who have banded together to achieve one common goal.
 </p>
-![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/team-map.png)
+
+![Team Map](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/team-map.png)
 
 
 ## ID verified audit by Dessert Finance
-![Team Map](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/dessert-finance.png)
+![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/dessert-finance.png)
 
 <p> Dessert Finance created an extensive and thorough Audit on the NASA token. You can read it for yourself [here](https://dessertswap.finance/idverified.html). Dessert Finance had high praise for NASA and only highlighted two possible risk signs none of which were concerned with the smart contract itself.
 
