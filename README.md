@@ -138,9 +138,9 @@ Below is a short rundown of how the process will work:
 4. NASA gives the token a grade, compiles its findings into an easy to read report and publishes the results
 5. A token becomes NASA Certified if it meets a certain criteria and or threshold. This is essentially recognition that this token passes all our checks and based on the results it is Not Another Shit Altcoin
 6. NASA creates an NFT for the most worthy projects that will be displayed on nasatoken.net and shared across all social media platforms bringing attention and hype to the newly audited token
-
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ceb5584-3235-4d05-90ce-2736147a31be/Screenshot_2021-06-17_at_14.07.55.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ceb5584-3235-4d05-90ce-2736147a31be/Screenshot_2021-06-17_at_14.07.55.png)
-
+</p>
+    ![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/Audit-serivce.png)
+<p>
 Proof of concept. Selected audited tokens will receive an animated NFT equipped with a "NASA Certified" stamp and grade.</p>
 
 
@@ -152,11 +152,11 @@ A link will be available on our website shortly that will redirect the user to a
 
 
 
-<p>The creative director at NASA has already started creating templates for some of the art that will be showcased on the marketplace. This project is still in the early development stage but see below for a little teaser of what we have in store for you.
+<p>The creative director at NASA has already started creating templates for some of the art that will be showcased on the marketplace. This project is still in the early development stage but see below for a little teaser of what we have in store for you.</p>
 
-[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c18be339-5d1e-461f-9be6-b79c1babdacc/Nasa_Honorable_Mention_(1)_(online-video-cutter.com).mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c18be339-5d1e-461f-9be6-b79c1babdacc/Nasa_Honorable_Mention_(1)_(online-video-cutter.com).mp4)
+![](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/NFT-Template-1.mp4)
 
-[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41a62204-c8c6-490b-bc12-4738f1e2de92/Employee_of_the_week_(1)_(online-video-cutter.com).mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41a62204-c8c6-490b-bc12-4738f1e2de92/Employee_of_the_week_(1)_(online-video-cutter.com).mp4)</p>
+![ ](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41a62204-c8c6-490b-bc12-4738f1e2de92/Employee_of_the_week_(1)_(online-video-cutter.com).mp4)
 
 
 
@@ -192,7 +192,7 @@ Token allocation
 
 ## Wallet Distribution
 <p>
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78792590-53bf-438d-a28d-b537b1e83835/Screen_Shot_2021-06-16_at_11.03.41_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78792590-53bf-438d-a28d-b537b1e83835/Screen_Shot_2021-06-16_at_11.03.41_PM.png)
+![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/Wallet-Distribution.png)
 
 The three largest holders
 
@@ -239,10 +239,10 @@ The last 5% of the 10% transaction tax goes towards NASA's locked liquidity pool
 
 ## Roadmap
 <p>Q3-2021</p>
-[Q3 - 2021](https://www.notion.so/d4b71e75278a4d759f58d180f69fee8e)
+![Q3 - 2021](https://www.notion.so/d4b71e75278a4d759f58d180f69fee8e)
 
 <p>Q4 - 2021</p>
-[Q4 - 2021](https://www.notion.so/4d7337e2b60449d1908ad342b9ced5a1)
+![Q4 - 2021](https://www.notion.so/4d7337e2b60449d1908ad342b9ced5a1)
 
 
 
