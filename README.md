@@ -30,9 +30,9 @@
         </ul>
         <li><a>Coming Soon</a></li>
         <ul>
-          <li><a href="#audit-service">1. NASA Audit Services</a></li>
-          <li><a href="#rug-pull-relief">2. Rug Pull Relief Fund</a></li>
-          <li><a href="#nft-marketplace">3. NFT marketplace</a></li>
+          <li><a href="#1. NASA Audit Services">1. NASA Audit Services</a></li>
+          <li><a href="#2. Rug Pull Relief Fund">2. Rug Pull Relief Fund</a></li>
+          <li><a href="#3. NFT marketplace">3. NFT marketplace</a></li>
         </ul>
         <li><a>Token Information</a></li>
         <ul>
@@ -110,12 +110,19 @@ In addition to this, the team of professionals working on NASA are doxed. As you
 
 
 ## ID verified audit by Dessert Finance
-<p> 
+![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/dessert-finance.png)
+<p> Dessert Finance created an extensive and thorough Audit on the NASA token. You can read it for yourself [here](https://dessertswap.finance/idverified.html). Dessert Finance had high praise for NASA and only highlighted two possible risk signs none of which were concerned with the smart contract itself.
+
+The risk signs were related to use case and domain name registration. The use case was not made common knowledge prior to the audit - this is no longer an issue and has since been fixed.
+
+In regards to the domain name registration, Dessert Finance likes to see domains registered for longer than a year. At the time of submission, nasatoken.net did not meet this requirement but as shown in the screenshot below, it does now.</p>
 
 
+## Open communication lines and channels
+<p>The NASA team are always on hand to answer questions and chit chat with the community. As highlighted in the map above, we have team members in all areas of the globe. NASA operates 24 hours a day, 7 days a week.</p>
 
 
-
+## 1. NASA Audit Services
 
 
 
