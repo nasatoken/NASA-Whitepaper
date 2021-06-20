@@ -22,35 +22,35 @@
         <ul>
           <li><a href="#ownership-renounced">1. Ownership Renounced</a></li>
           <li><a href="#the-smart-contract-contains-no-lockunlock-functions">2. The smart contract contains no lock/unlock functions</a></li>
-          <li><a href="#Locked liquidity pool until 2100">3. Locked liquidity pool until 2100</a></li>
-          <li><a href="#Excellent wallet distribution">4. Excellent wallet distribution</a></li>
-          <li><a href="#Full transparency and a globally doxed team">5. Full transparency and a globally doxed team</a></li>
-          <li><a href="#ID verified audit by Dessert Finance">6. ID verified audit by Dessert Finance</a></li>
-          <li><a href="#Open communication lines and channels">7. Open communication lines and channels</a></li>
+          <li><a href="#Locked-liquidity-pool-until-2100">3. Locked liquidity pool until 2100</a></li>
+          <li><a href="#Excellent-wallet-distribution">4. Excellent wallet distribution</a></li>
+          <li><a href="#Full-transparency-and-a-globally-doxed-team">5. Full transparency and a globally doxed team</a></li>
+          <li><a href="#ID-verified-audit-by-Dessert-Finance">6. ID verified audit by Dessert Finance</a></li>
+          <li><a href="#Open-communication-lines-and-channels">7. Open communication lines and channels</a></li>
         </ul>
         <li><a>Coming Soon</a></li>
         <ul>
           <li><a href="#1-NASA-Audit-Services">1. NASA Audit Services</a></li>
           <li><a href="#2-Rug-Pull-Relief-Fund">2. Rug Pull Relief Fund</a></li>
-          <li><a href="#-NFT-marketplace">3. NFT marketplace</a></li>
+          <li><a href="#3-NFT-marketplace">3. NFT marketplace</a></li>
         </ul>
         <li><a>Token Information</a></li>
         <ul>
-          <li><a href="#Profile Summary">Profile Summary</a></li>
+          <li><a href="#Profile-Summary">Profile Summary</a></li>
           <li><a href="#Tokenomics">Tokenomics</a></li>
           <ul>
-            <li><a href="#Token Allocation">Token Allocation</a></li>
-            <li><a href="#10% Transaction Tax">10% Transaction Tax</a></li>
+            <li><a href="#Token-Allocation">Token Allocation</a></li>
+            <li><a href="#10-Transaction-Tax">10% Transaction Tax</a></li>
           </ul>
-          <li><a href="#Wallet Distribution">Wallet Distribution</a></li>
+          <li><a href="#Wallet-Distribution">Wallet Distribution</a></li>
           <ul>
-            <li><a href="#The three largest holders">The three largest holders</a></li>
+            <li><a href="#The-three-largest-holders">The three largest holders</a></li>
           </ul>
-          <li><a href="#Token mechanics">Token mechanics</a></li>
+          <li><a href="#Token-mechanics">Token mechanics</a></li>
           <ul>
-            <li><a href="#Token burn and deflationary mechanism">Token burn and deflationary mechanism</a></li>
-            <li><a href="#Reflection mechanism">Reflection mechanism</a></li>
-            <li><a href="#Increasing liquidity pool">Increasing liquidity pool</a></li>
+            <li><a href="#Token-burn-and-deflationary-mechanism">Token burn and deflationary mechanism</a></li>
+            <li><a href="#Reflection-mechanism">Reflection mechanism</a></li>
+            <li><a href="#Increasing-liquidity-pool">Increasing liquidity pool</a></li>
           </ul>
         <ul>
       </ul>
@@ -123,15 +123,113 @@ In regards to the domain name registration, Dessert Finance likes to see domains
 ## Open communication lines and channels
 <p>The NASA team are always on hand to answer questions and chit chat with the community. As highlighted in the map above, we have team members in all areas of the globe. NASA operates 24 hours a day, 7 days a week.</p>
 
+## Coming Soon 
 
 ## 1. NASA Audit Services
+<p>This is a project we are extremely bullish on and it makes sense from a branding and marketing point of view. 
+
+We have a dedicated team of blockchain developers in charge of this and we are currently in the early stages of auditing our first token, more details will be made available as we near closer to releasing our findings. 
+
+Below is a short rundown of how the process will work:
+
+1. Token hires us to audit their project
+2. Token pays a fee of which is reinvested back into NASA
+3. NASA's team of experts scan the smart contract line by line and highlight any risk factors
+4. NASA gives the token a grade, compiles its findings into an easy to read report and publishes the results
+5. A token becomes NASA Certified if it meets a certain criteria and or threshold. This is essentially recognition that this token passes all our checks and based on the results it is Not Another Shit Altcoin
+6. NASA creates an NFT for the most worthy projects that will be displayed on nasatoken.net and shared across all social media platforms bringing attention and hype to the newly audited token
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ceb5584-3235-4d05-90ce-2736147a31be/Screenshot_2021-06-17_at_14.07.55.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ceb5584-3235-4d05-90ce-2736147a31be/Screenshot_2021-06-17_at_14.07.55.png)
+
+Proof of concept. Selected audited tokens will receive an animated NFT equipped with a "NASA Certified" stamp and grade.</p>
+
 
 
 ## 2. Rug Pull Relief Fund
+<p>There's nothing worse than getting excited about a project or new token launch only to have your hard earned investment pulled unexpectedly by bad actors. At NASA, a portion of reflections from our marketing wallet will be used to give back to active NASA investors who have been rug pulled on other investments via an application process.
+
+A link will be available on our website shortly that will redirect the user to a form to fill out. Our staff will review the form and if the user is successful then we will match any investment they make into NASA 1:1 (up to a certain limit). The only condition is that the tokens will need to be held in a wallet for specified amount of time, after which point the person is free to do whatever they want with them.</p>
 
 
 
-## 3. NFT marketplace
+<p>The creative director at NASA has already started creating templates for some of the art that will be showcased on the marketplace. This project is still in the early development stage but see below for a little teaser of what we have in store for you.
+
+[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c18be339-5d1e-461f-9be6-b79c1babdacc/Nasa_Honorable_Mention_(1)_(online-video-cutter.com).mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c18be339-5d1e-461f-9be6-b79c1babdacc/Nasa_Honorable_Mention_(1)_(online-video-cutter.com).mp4)
+
+[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41a62204-c8c6-490b-bc12-4738f1e2de92/Employee_of_the_week_(1)_(online-video-cutter.com).mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41a62204-c8c6-490b-bc12-4738f1e2de92/Employee_of_the_week_(1)_(online-video-cutter.com).mp4)</p>
+
+
+
+## Token Information
+
+
+## Profile Summary
+<p>
+**Network:** Binance Smart Chain (BEP-20)
+**Ticker:** NASA
+**Contract address:** 0x70cf8d40a3d0f7bc88077ba7d103050d0001a653
+**Decimals:** 9
+</p>
+
+## Tokenomics
+<p>
+Token allocation
+
+**Initial supply:** 1,000,000,000,000 NASA
+**Initial burn:** 5% or 50,000,000,000 NASA
+**Dev wallet:** 5% or 50,000,000,000 NASA
+**Amount reserved for Whitelist:** 23% or 230,462,094,791 NASA
+**Amount reserved for DxSale:** 67% or 670,000,000,000 NASA
+</p>
+
+## 10% Transaction Tax
+<p>
+5% redistributed to holders
+
+5% goes towards the liquidity pool
+</p>
+
+
+## Wallet Distribution
+<p>
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78792590-53bf-438d-a28d-b537b1e83835/Screen_Shot_2021-06-16_at_11.03.41_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78792590-53bf-438d-a28d-b537b1e83835/Screen_Shot_2021-06-16_at_11.03.41_PM.png)
+
+The three largest holders
+
+1. Pancakeswap liquidity pool **23%** | 0x0500f56af9debe23d7460ce9fb0ab9d0a910b018
+2. Burn Address **5.4%** | 0x000000000000000000000000000000000000dead
+3. Marketing wallet **5.11%** | 0x70cf8d40a3d0f7bc88077ba7d103050d0001a653
+
+
+## Token mechanics
+
+## Token burn and deflationary mechanism
+<p>
+NASA had an initial supply of 1,000,000,000,000 NASA which is low in comparison to other altcoins/memecoins. We opted against a large percentage burn at the start for the simple reason that if we had not, then we would potential run into supply issues in the future.
+
+Therefore, we decided that a 5% burn (50,000,000,000 NASA) of the initial supply would be the most optimal amount for this situation. These tokens were sent to the dead address ([txn hash](https://www.notion.so/f53b6459800b2984427133a51575c2a2)) essentially removing them from the circulation forever.
+
+By doing this, NASA becomes a deflationary token which basically means that over time the supply gradually decreases instead of increasing or staying stagnant. This is because, as mentioned earlier reflection taxes go to every holder and the dead address is no exception. The amount of tokens the holder receives is proportionate to how many NASA tokens they hold – in other words, the larger the supply of NASA tokens the larger the slice of the pie.
+
+In summary, the burn address acts as a “black hole”. Over time, more and more tokens will be consumed or removed from circulation which in turn results in scarcity. This will allow for rising price support, increasing with volume as NASA continues to expand.</p>
+
+
+## Reflection mechanism
+<p>
+5% of every transaction is taxed and reflected or distributed back to each holder. You might hear this process being referred to as automatic staking and or frictionless yield. Basically investors are paid passive income for just holding while the rewards are compounding over time.
+
+Nobody is safe from the transaction fees either. This includes swing traders. So the reflection mechanism also acts as a deterrent for those looking to make a quick buck off of the price volatility which in turn contributes to a smoother ride for everybody else.
+
+The 5% tax is fixed, and due to our renounced ownership this amount will never change. This is far superior to other more traditional Yield Farming protocols in which their APY’s are dynamic and selling pressure would result in lower profitability for all. NASA will never fall prey to this, as its reflection mechanic is built to sustain itself.</p>
+
+
+## Increasing liquidity pool
+<p>
+A liquidity pool is a collection of funds locked in a smart contract. Liquidity pools are used to facilitate decentralized trading, lending, and many more functions.
+
+The advantage of using liquidity pools is that it does not require a buyer and a seller to decide to exchange two assets for a given price, and instead leverages a pre-funded liquidity pool. This allows for trades to happen with limited slippage even for the most illiquid trading pairs, as long as there is a big enough liquidity pool.
+
+The last 5% of the 10% transaction tax goes towards NASA's locked liquidity pool. This means that over time, NASA’s liquidity pool will continue to rise in relation to volume, consistently contributing to a higher and healthier price floor. Not only that but the increasing liquidity also makes NASA more resilient to dips.</p>
 
 
 
@@ -139,30 +237,12 @@ In regards to the domain name registration, Dessert Finance likes to see domains
 
 
 
+## Roadmap
+<p>Q3-2021</p>
+[Q3 - 2021](https://www.notion.so/d4b71e75278a4d759f58d180f69fee8e)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p>Q4 - 2021</p>
+[Q4 - 2021](https://www.notion.so/4d7337e2b60449d1908ad342b9ced5a1)
 
 
 
