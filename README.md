@@ -78,9 +78,11 @@
 
 
 ## Ownership Renounced
+![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/Ownership-Renounced.png)
 <p>Ownership was renounced on June 06, 2021.</p>
 <a href="https://bscscan.com/tx/0x02c5dc9e329da9b20620daabc786c80adb754a317201bbffddbc16d9c309b38e#eventlog">Transaction Hash</a>
-![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/Ownership-Renounced.png)
+
+
 
 ## The smart contract contains no lock/unlock functions
 <p>A lot of people do not know this but a very common risk factor for tokens is their ability to "fake" renounced ownership without investors being any the wiser. This is made possible by a function embedded into the smart contract that allows the developer to reclaim ownership once it has been renounced. NASA listened to the concerns of the community and made the easy decision of removing this line of code completely from the smart contract.</p>
@@ -96,13 +98,19 @@ Investors can sleep soundly at night knowing that the liquidity pool will never 
 ## Excellent wallet distribution
 <p>NASA held a Whitelist presale before launching on DxSale. Loyal members of the community were given an opportunity to purchase tokens early to ensure that in the event of bot attack on DxSale that the token would also be propped up by individuals that supported the project/holders.
 
-To avoid the risk of whales buying up large qualities of NASA and controlling the supply a max buy limit of 1 BNB per person/wallet was implemented for both the Whitelist and DxSale. This proved to be a very wise decision as NASA tokens are now distributed fairly evenly across all wallets. Refer to the *wallet distributions* section down [below](https://www.notion.so/NASA-Token-s-Live-Whitepaper-e36eaf6a194244479767bd188aa1271b) for more details.</p>
+To avoid the risk of whales buying up large qualities of NASA and controlling the supply a max buy limit of 1 BNB per person/wallet was implemented for both the Whitelist and DxSale. This proved to be a very wise decision as NASA tokens are now distributed fairly evenly across all wallets. Refer to the *wallet distributions* section down [below](#Wallet Distribution) for more details.</p>
 
 
+## Full transparency and a globally doxed team
+<p>NASA is committed to being one of the most transparent tokens on the crypto market. No information is withheld from the public simply because NASA has nothing to hide. This Whitepaper will act as the main resource for finding all important information in one place, however, if you discover that something is not quite explained in detail enough or you need more clarification on a subject then head on over to one of our many social media platforms (links are provided [here](https://www.notion.so/NASA-Token-s-Live-Whitepaper-e36eaf6a194244479767bd188aa1271b)) and a helpful staff member will be able to point you in the right direction.
+
+In addition to this, the team of professionals working on NASA are doxed. As you can see from the map below, NASA is comprised of a global network of individuals who have banded together to achieve one common goal.
+</p>
+![ ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/team-map.png)
 
 
-
-
+## ID verified audit by Dessert Finance
+<p> 
 
 
 
