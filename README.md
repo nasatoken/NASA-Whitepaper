@@ -153,12 +153,13 @@ Proof of concept. Selected audited tokens will receive an animated NFT equipped 
 A link will be available on our website shortly that will redirect the user to a form to fill out. Our staff will review the form and if the user is successful then we will match any investment they make into NASA 1:1 (up to a certain limit). The only condition is that the tokens will need to be held in a wallet for specified amount of time, after which point the person is free to do whatever they want with them.</p>
 
 
-
+## 3. NFT marketplace
 <p>The creative director at NASA has already started creating templates for some of the art that will be showcased on the marketplace. This project is still in the early development stage but see below for a little teaser of what we have in store for you.</p>
 
-![](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/NFT-Template-1.mp4)
+![sample 1](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/NFT-Template-1.gif)
 
-![ ](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/41a62204-c8c6-490b-bc12-4738f1e2de92/Employee_of_the_week_(1)_(online-video-cutter.com).mp4)
+![sample 2 ](https://github.com/nasatoken/NASA-Whitepaper/blob/main/images/NFT-Template-2.gif)
+
 
 
 
