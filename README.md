@@ -1,4 +1,9 @@
 <p align="center">
+    <h2 align="center">NASA | Not Another Shit Altcoin</h2>
+</p>
+
+
+<p align="center">
   <img src="https://static.wixstatic.com/media/d19bb7_91109d8d5f284ea59b638d6d6431e8c3~mv2.png/v1/crop/x_22,y_0,w_542,h_600/fill/w_507,h_561,al_c,q_85,usm_0.66_1.00_0.01/d19bb7_91109d8d5f284ea59b638d6d6431e8c3~mv2.webp" width="200" />
   <br/>
   <h3 align="center">NASA | Not Another Shit Altcoin</h3>
@@ -102,7 +107,7 @@ To avoid the risk of whales buying up large qualities of NASA and controlling th
 
 
 ## Full transparency and a globally doxed team
-<p>NASA is committed to being one of the most transparent tokens on the crypto market. No information is withheld from the public simply because NASA has nothing to hide. This Whitepaper will act as the main resource for finding all important information in one place, however, if you discover that something is not quite explained in detail enough or you need more clarification on a subject then head on over to one of our many social media platforms (links are provided [here](https://www.notion.so/NASA-Token-s-Live-Whitepaper-e36eaf6a194244479767bd188aa1271b)) and a helpful staff member will be able to point you in the right direction.
+<p>NASA is committed to being one of the most transparent tokens on the crypto market. No information is withheld from the public simply because NASA has nothing to hide. This Whitepaper will act as the main resource for finding all important information in one place, however, if you discover that something is not quite explained in detail enough or you need more clarification on a subject then head on over to one of our many social media platforms (links are provided  <a href="https://www.notion.so/NASA-Token-s-Live-Whitepaper-e36eaf6a194244479767bd188aa1271b">here</a>) and a helpful staff member will be able to point you in the right direction.
 
 In addition to this, the team of professionals working on NASA are doxed. As you can see from the map below, NASA is comprised of a global network of individuals who have banded together to achieve one common goal.
 </p>
